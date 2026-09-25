@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-vermont-code",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vermont Statutes Annotated — state statutes by citation.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-ad2ee2cc4834cf7489694347bbbca040465de21634734ccb5654452f07dfef23",
+    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
   }
 }
