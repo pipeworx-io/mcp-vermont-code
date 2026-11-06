@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-vermont-code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Vermont Statutes Annotated — state statutes by citation.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "vermont-code",
     "gatewaySlug": "vermont-code",
-    "sourceHash": "v1-be00a4a53cd38d096b00f5063e9a3b4f7c1d6a6c393e9b7fb25f792172e4abbb",
-    "sourceCommit": "98853f34516646cb7c4c1460f09249b262c0269e"
+    "sourceHash": "v1-85aeaf643bfb27638370ef15808aa8f99d1358f351c09122d8db189685657214",
+    "sourceCommit": "ca52e7ed1e1ccad897c2da1b0fa105edc0bc3b2e"
   }
 }
